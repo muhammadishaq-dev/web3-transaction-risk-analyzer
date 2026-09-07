@@ -1,3 +1,4 @@
+
 def calculate_risk_score(transaction):
     score = 0
 
