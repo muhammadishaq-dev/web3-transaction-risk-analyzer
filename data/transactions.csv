@@ -1,0 +1,6 @@
+transaction_id,amount,frequency,location_risk
+TX001,500,2,10
+TX002,5000,8,80
+TX003,1200,4,40
+TX004,10000,12,90
+TX005,300,1,5
